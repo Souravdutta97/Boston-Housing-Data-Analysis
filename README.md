@@ -4,17 +4,17 @@
 </p
 
 
-## Introduction
+# Introduction
 
 The Boston Housing dataset, collected by the U.S Census Service, contains information about various factors affecting housing in the area of Boston, Massachusetts.In this project, we conduct a thorough analysis of the Boston Housing dataset using Python and the pandas library. Our goal is to explore the dataset, perform data cleaning, and conduct descriptive statistics to gain insights into the housing market in Boston. By analyzing this dataset, we aim to understand the key factors that influence housing prices in Boston and identify patterns that can help in making informed decisions related to housing investments.
 
 Through this analysis, we hope to provide valuable insights into the Boston housing market that can be useful for real estate investors, policymakers, and researchers interested in studying housing dynamics.
 
-## This project includes :
+# This project includes :
 
-# Data Understanding
-# Data Processing
-# Data Analyzing
+## Data Understanding
+## Data Processing
+## Data Analyzing
 
 ## Problem Statement
 Project Description You want to be the best real estate agent out there. In order to compete with other agents in your area, you decide to use machine learning. You are going to use various statistical analysis tools to build the best model to predict the value of a given house. Your task is to find the best price your client can sell their house at. The best guess from a model is one that best generalizes the data.
