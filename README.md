@@ -1,9 +1,7 @@
 # Boston-Housing-Data-Analysis
 <p align="center">
-  <img width="600" height="300" src="<p align="center">
   <img width="600" height="300" src="pr.png">
-</p>">
-</p>
+</p
 
 ## Introduction
 
